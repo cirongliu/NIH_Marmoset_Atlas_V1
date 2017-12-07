@@ -1,0 +1,33 @@
+<ATLAS
+  atlas_name="NIH_Marmoset_0.01_v5L"
+  dset_name="NIH_Marmoset_atlas_v5L.nii.gz"
+  template_space="NIH_Marmoset"
+  description="NIH_Marmoset, Cirong Liu, et al 2017"
+  comment="NIH_Marmoset, Cirong Liu, et al 2017" />
+<ATLAS
+  atlas_name="NIH_Marmoset_0.01_v5M"
+  dset_name="NIH_Marmoset_atlas_v5M.nii.gz"
+  template_space="NIH_Marmoset"
+  description="NIH_Marmoset, Cirong Liu, et al 2017"
+  comment="NIH_Marmoset, Cirong Liu, et al 2017" />
+<ATLAS
+  atlas_name="NIH_Marmoset_0.01_v5H"
+  dset_name="NIH_Marmoset_atlas_v5H.nii.gz"
+  template_space="NIH_Marmoset"
+  description="NIH_Marmoset, Cirong Liu, et al 2017"
+  comment="NIH_Marmoset, Cirong Liu, et al 2017" />
+<TEMPLATE_SPACE
+  space_name="NIH_Marmoset"
+  generic_space="NIH_Marmoset"
+  comment="NIH Marmoset" />
+<ATLAS
+ atlas_name="Paxinos_marmoset_NIH"
+ dset_name="NIH_Marmoset_atlas_Paxinos_cortex.nii.gz"
+ template_space="NIH_Marmoset"
+ description="Paxinos Marmoset-NIH space"
+ comment="Paxinos Marmoset atlas (NIH Marmoset space)
+       the Brain Architecture Project, the Marmoset Brain Architecture Project
+       under Creative Commons license
+       http://marmoset.braincircuits.org/
+       http://creativecommons.org/licenses/by-nc/3.0/"
+></ATLAS>
