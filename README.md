@@ -25,6 +25,7 @@ Template_sym_ROI_cortexmask_beta.nii.gz -- A "beta" version of the cortical mask
 NIH_Marmoset_atlas_labels.xlsx  -- label file for the three NIH atlases
 NIH_Marmoset_atlas_Paxinos_cortex_labels.txt -- label file for the Paxinos brain atlas
 
+A digital 3D atlas of the marmoset brain based on multi-modal MRI  -- the pre-print manuscript about the atlas 
 
 #####
 
@@ -37,4 +38,3 @@ If you are learning AFNI and have questions about the atlas in the AFNI, please 
 
 If you have questions about the NIH Marmoset Brain Atlas Project, please contact Dr. Afonso Silva (silvaa@ninds.nih.gov)
 
-I will upload a detailed document about these files later.
