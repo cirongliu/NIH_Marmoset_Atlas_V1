@@ -5,6 +5,10 @@ Reference:
 A digital 3D atlas of the marmoset brain based on multi-modal MRI.
 Liu C, Ye FQ, Chern-Chyi Yen C, Newman JD, Glen D, Leopold DA, Silva AC.
 Neuroimage. 2017 Dec 2. pii: S1053-8119(17)31018-2. doi: 10.1016/j.neuroimage.2017.12.004. [Epub ahead of print]
+https://www.ncbi.nlm.nih.gov/pubmed/29208569
+
+Audioslides:
+http://audioslides.elsevier.com//ViewerLarge.aspx?source=1&doi=10.1016/j.neuroimage.2017.12.004
 
 
 NIH_Marmoset_atlas_vL.nii.gz -- the location-based parcellation (13 cortical regions)
