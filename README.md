@@ -14,7 +14,7 @@ NIH_Marmoset_atlas_vL.nii.gz -- the location-based parcellation (13 cortical reg
 
 NIH_Marmoset_atlas_vM.nii.gz -- the MRI-based parcellation (54 cortical regions)
 
-NIH_Marmoset_atlas_vH.nii.gz -- the connectivity-based parcellation (54 cortical regions)
+NIH_Marmoset_atlas_vH.nii.gz -- the connectivity-based parcellation (103 cortical regions)
 
 NIH_Marmoset_atlas_Paxinos_cortex.nii.gz -- the Paxinos brain atlas parcellation in NIH MRI template space 
 
