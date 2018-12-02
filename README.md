@@ -10,7 +10,6 @@ This is a major update of our previous (first) release (v0.02) of the NIH marmos
 3) We corrected errors identified in the subcortical regions, including removing the septum, revising and correcting the boundaries of subcortical regions. Note that the subcortical ROIs is still a beta version, as the V1 atlas mainly focused on the cortical parcellation. In the future, we may release a more fine-grained subcortical gray matter ROIs.
 4) We added the Caret cortical surface files (beta version). However, This is not completed yet and many features will be added (for example flat maps) in the future.
 5) We added a folder to include the results of studies that used the NIH marmoset Brain atlas (V1).
-6) As there was no change in the cortical region and the template space, we removed the old release (v0.02) from the repository to avoid confusion.
 
 
 # Release v1.1 files
