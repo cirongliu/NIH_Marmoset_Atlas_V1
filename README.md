@@ -9,7 +9,17 @@ https://www.ncbi.nlm.nih.gov/pubmed/29208569
 Audioslides:
 http://audioslides.elsevier.com//ViewerLarge.aspx?source=1&doi=10.1016/j.neuroimage.2017.12.004
 
-### release v1.1
+# release v1.1 update
+
+This is an major update of our previous (first) release (v0.02) of the NIH marmoset Brain atlas. Updates includes:
+1) As we will release another atlas (V2) that forcus on the white matter pathways soon, we renamed all files of V1 to keep a consistent with our future atlases. 
+2) We adopted the same number indices for left and right brain regions. To select the left/right ROIs, we provided left/right brain masks.
+2) We corrected errors identified in the subcortical regions, including removing the septum, revising and correcting the boundaries of subcortical regions. Note that the subcortical ROIs are still beta version, as the V1 atlas mainly forcused on the cortical parcellation. In the future, we may release a more fine-grained subcortical gray matter ROIs.
+3) We added the Caret cortical surface files (beta version). However, This is not completed yet and many features will be added (for example flat maps) in the future. 
+4) We added a folder to include results of studies that used the NIH marmoset Brain atlas (V1).
+
+
+# release v1.1 files
 
 NIH_cortex_vL_150um.nii.gz -- the location-based parcellation (13 cortical regions)
 
@@ -48,3 +58,6 @@ If you are learning AFNI and have questions about the atlas in the AFNI, please 
 
 If you have questions about the NIH Marmoset Brain Atlas Project, please contact Dr. Cirong Liu (cirong.liu@nih.gov)  or Dr. Afonso Silva (silvaa@ninds.nih.gov)
 
+If you identified errors in the atlas or want to submit your parcellation results to our atlas, please contact Dr. Cirong Liu (cirong.liu@nih.gov).
+
+Thanks for your supporting!
