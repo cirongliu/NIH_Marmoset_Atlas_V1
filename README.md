@@ -42,8 +42,12 @@ Results_On_The_Template_Space -- Studies that used the NIH Marmoset Brain atlas 
 
 
 # Note:
-If you are an AFNI user, why bother to download the atlas from here. AFNI has already integrated the whole atlas set (V1) (via command @Install_NIH_Marmoset).
+If you are an AFNI user. AFNI has already integrated the whole atlas set (via command @Install_NIH_Marmoset).
+
 If you are learning AFNI and have questions about the atlas in the AFNI, please feel free to contact me (cirong.liu@nih.gov) or Glen Daniel (glend@mail.nih.gov).
+
 If you have questions about the NIH Marmoset Brain Atlas Project, please contact Dr. Cirong Liu (cirong.liu@nih.gov) or Dr. Afonso Silva (silvaa@ninds.nih.gov)
+
 If you identified errors in the atlas or want to submit your parcellation results to our atlas, please contact Dr. Cirong Liu (cirong.liu@nih.gov).
+
 Thanks for your supporting!
