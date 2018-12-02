@@ -3,7 +3,7 @@ If you used the atlas, please cite: A digital 3D atlas of the marmoset brain bas
 
 Audioslides: http://audioslides.elsevier.com//ViewerLarge.aspx?source=1&doi=10.1016/j.neuroimage.2017.12.004
 
-# Release v1.1 update
+# Release v1.1 updates
 This is a major update of our previous (first) release (v0.02) of the NIH marmoset Brain atlas. Updates include:
 1) As we will release another atlas (V2) that focus on the white matter pathways soon, we renamed all files of V1 to keep a consistency with our future atlases.
 2) We adopted the same number indices for left and right brain regions. To select the left/right ROIs, we provided left/right brain masks.
