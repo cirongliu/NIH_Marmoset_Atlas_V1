@@ -14,18 +14,30 @@ This is a major update of our previous (first) release (v0.02) of the NIH marmos
 
 # Release v1.1 files
 NIH_cortex_vL_150um.nii.gz -- the location-based parcellation (13 cortical regions)
+
 NIH_cortex_vM_150um.nii.gz -- the MRI-based parcellation (54 cortical regions)
+
 NIH_cortex_vH_150um.nii.gz -- the connectivity-based parcellation (103 cortical regions)
+
 NIH_cortex_vPaxinos_150um.nii.gz -- the Paxinos brain atlas parcellation in NIH MRI template space
+
 NIH_subcortical_beta_150um.nii.gz -- the subcortical ROIs, this is a beta version.
+
 NIH_mask_150um.nii.gz -- whole brain mask
+
 NIH_mask_left_150um.nii.gz -- left brain mask
+
 NIH_mask_right_150um.nii.gz -- right brain mask
+
 Template_sym_xx.nii.gz -- Multi-modal MRI templates
 (Template_sym_FADEC.nii.gz is color-coded image and can be viewed by FSLView of the FSL and the mrview of Mrtrix3)
+
 NIH_labels_cortex_and_subcortical.xlsx -- label file for the three NIH atlases and Paxinos atlas parcellations
+
 A digital 3D atlas of the marmoset brain based on multi-modal MRI -- the pre-print manuscript about the atlas
+
 Caret_surface_beta -- this is the beta version of Caret cortical surface file in our template space
+
 Results_On_The_Template_Space -- Studies that used the NIH Marmoset Brain atlas V1. Result files are in the template space.
 
 
