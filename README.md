@@ -43,7 +43,7 @@ Results_On_The_Template_Space -- Studies that used the NIH Marmoset Brain atlas 
 
 # Note:
 
-If you have questions about the NIH Marmoset Brain Atlas Project, please contact Dr. Cirong Liu (cirong.liu@nih.gov) or Dr. Afonso Silva (silvaa@ninds.nih.gov)
+If you have questions about the NIH Marmoset Brain Atlas, please contact Dr. Cirong Liu (cirong.liu@nih.gov) or Dr. Afonso Silva (silvaa@ninds.nih.gov)
 
 If you identified errors in the atlas or want to submit your parcellation results to our atlas, please contact Dr. Cirong Liu (cirong.liu@nih.gov).
 
